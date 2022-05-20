@@ -2,7 +2,7 @@
 
 ```
 FUNC input
-  CALC natural log of input + 1
+  CALC log base 10 of input + 1
 ```
 
 ```
