@@ -8,5 +8,3 @@ for (let i = 1; i < 10; i++) {
   }
 }
 console.log(pascalsTriangle);
-
-// pascalsTriangle[i - 1][j - 1] === undefined || pascalsTriangle[i - 1][j] === undefined
