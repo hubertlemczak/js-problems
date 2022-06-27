@@ -10,7 +10,6 @@ for (let a = 220; a < 90000; a++) {
   let bSum = 0;
   for (let j = 1; j <= b / 2; j++) {
     if (b % j === 0 && b < a && b !== bSum) {
-      console.log(bSum);
       bSum += j;
     }
   }
